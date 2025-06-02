@@ -77,8 +77,8 @@ export const placeholderDoctors: Doctor[] = [
     departmentName: 'Orthopedics',
     bio: 'Dr. Green is a renowned orthopedic surgeon specializing in sports injuries and joint replacement. She uses the latest minimally invasive techniques.',
     availability: 'Mon, Tue, Thu: 8 AM - 4 PM',
-    imageUrl: 'https://placehold.co/300x300.png',
-    'data-ai-hint': 'female surgeon',
+    imageUrl: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8ZmVtYWxlJTIwZG9jdG9yfGVufDB8fHx8MTc0ODg0MzcwOXww&ixlib=rb-4.1.0&q=80&w=1080',
+    'data-ai-hint': 'doctor portrait',
     qualifications: ['MD', 'FACS (Fellow of the American College of Surgeons)'],
     experienceYears: 18,
   },
@@ -144,7 +144,9 @@ export const placeholderTestimonials: Testimonial[] = [
     id: '3',
     patientName: 'Michael B.',
     quote: "Dr. Green performed my knee surgery, and I'm back to my active lifestyle sooner than I expected. The entire orthopedic department is fantastic.",
-    'data-ai-hint': 'male patient',
+    'data-ai-hint': 'male patient', // Added missing imageUrl here, assuming placeholder
+    imageUrl: 'https://placehold.co/100x100.png',
     date: '2024-05-10',
   },
 ];
+

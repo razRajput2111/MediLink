@@ -25,7 +25,7 @@ export default function HomePage() {
             <Button asChild size="lg" className="bg-background text-primary hover:bg-background/90">
               <Link href="/doctors">Find a Doctor</Link>
             </Button>
-            <Button asChild size="lg" variant="outline" className="border-background text-background hover:bg-background/10">
+            <Button asChild size="lg" variant="outline" className="border-background text-primary-foreground hover:bg-background/10 hover:text-primary">
               <Link href="/contact">Book Appointment</Link>
             </Button>
           </div>

@@ -7,14 +7,14 @@ export const placeholderDepartments: Department[] = [
     name: 'Cardiology',
     description: 'Comprehensive heart care, from prevention to advanced treatment.',
     icon: HeartPulse,
-    imageUrl: 'https://placehold.co/600x400.png?text=Cardiology',
+    imageUrl: 'https://images.unsplash.com/photo-1708433061324-06cfe6d48762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8Y2FyZGlvbG9neSUyMHxlbnwwfHx8fDE3NDg4NDMxNTV8MA&ixlib=rb-4.1.0&q=80&w=1080',
   },
   {
     id: 'neurology',
     name: 'Neurology',
     description: 'Expert diagnosis and treatment for brain, spine, and nervous system disorders.',
     icon: Brain,
-    imageUrl: 'https://placehold.co/600x400.png?text=Neurology',
+    imageUrl: 'https://images.unsplash.com/photo-1711409645921-ef3db0501f96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxuZXVyb2xvZ3klMjB8ZW58MHx8fHwxNzQ4ODQzMzA0fDA&ixlib=rb-4.1.0&q=80&w=1080',
   },
   {
     id: 'orthopedics',
@@ -136,3 +136,4 @@ export const placeholderTestimonials: Testimonial[] = [
     date: '2024-05-10',
   },
 ];
+

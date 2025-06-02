@@ -21,7 +21,7 @@ export const placeholderDepartments: Department[] = [
     name: 'Orthopedics',
     description: 'Specialized care for bones, joints, muscles, ligaments, and tendons.',
     icon: Bone,
-    imageUrl: 'https://placehold.co/600x400.png?text=Orthopedics',
+    imageUrl: 'https://images.unsplash.com/photo-1582380330092-636f9aff6aaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvcnRob3BlZGljfGVufDB8fHx8MTc0ODg0MzQzOHww&ixlib=rb-4.1.0&q=80&w=1080',
   },
   {
     id: 'pediatrics',

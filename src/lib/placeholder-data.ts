@@ -1,3 +1,4 @@
+
 import type { Department, Doctor, Testimonial } from './types';
 import { Building2, HeartPulse, Brain, Bone, Baby } from 'lucide-react';
 
@@ -48,7 +49,7 @@ export const placeholderDoctors: Doctor[] = [
     departmentName: 'Cardiology',
     bio: 'Dr. Carter is a board-certified cardiologist with over 15 years of experience in treating complex heart conditions. She is passionate about preventive care and patient education.',
     availability: 'Mon, Wed, Fri: 9 AM - 5 PM',
-    imageUrl: 'https://placehold.co/300x300.png?text=Dr.+Carter',
+    imageUrl: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8RG9jdG9yJTIwfGVufDB8fHx8MTc0ODg0MzU0N3ww&ixlib=rb-4.1.0&q=80&w=1080',
     qualifications: ['MD', 'FACC (Fellow of the American College of Cardiology)'],
     experienceYears: 15,
   },

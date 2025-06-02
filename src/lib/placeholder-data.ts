@@ -54,6 +54,7 @@ export const placeholderDoctors: Doctor[] = [
     imageUrl: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmZW1hbGUlMjBkb2N0b3J8ZW58MHx8fHwxNzQ4ODQzNzA5fDA&ixlib=rb-4.1.0&q=80&w=1080',
     qualifications: ['MD', 'FACC (Fellow of the American College of Cardiology)'],
     experienceYears: 15,
+    'data-ai-hint': 'doctor portrait',
   },
   {
     id: '2',
@@ -102,8 +103,8 @@ export const placeholderDoctors: Doctor[] = [
     departmentName: 'General Medicine',
     bio: 'Dr. White offers primary care services to patients of all ages. She emphasizes preventive health and wellness, building long-term relationships with her patients.',
     availability: 'Mon, Wed, Fri: 8 AM - 4 PM; Tue: 10 AM - 6 PM',
-    imageUrl: 'https://placehold.co/300x300.png',
-    'data-ai-hint': 'female doctor',
+    imageUrl: 'https://images.unsplash.com/photo-1603030431751-f3109cd8d53b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8RmVtYWxlJTIwZG9jdG9yfGVufDB8fHx8MTc0ODg0MzY1NXww&ixlib=rb-4.1.0&q=80&w=1080',
+    'data-ai-hint': 'doctor portrait',
     qualifications: ['MD', 'Board Certified in Family Medicine'],
     experienceYears: 10,
   },

@@ -9,6 +9,7 @@ export const placeholderDepartments: Department[] = [
     description: 'Comprehensive heart care, from prevention to advanced treatment.',
     icon: HeartPulse,
     imageUrl: 'https://images.unsplash.com/photo-1708433061324-06cfe6d48762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8Y2FyZGlvbG9neSUyMHxlbnwwfHx8fDE3NDg4NDMxNTV8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    'data-ai-hint': 'medical department',
   },
   {
     id: 'neurology',
@@ -16,6 +17,7 @@ export const placeholderDepartments: Department[] = [
     description: 'Expert diagnosis and treatment for brain, spine, and nervous system disorders.',
     icon: Brain,
     imageUrl: 'https://images.unsplash.com/photo-1711409645921-ef3db0501f96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxuZXVyb2xvZ3klMjB8ZW58MHx8fHwxNzQ4ODQzMzA0fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    'data-ai-hint': 'medical department',
   },
   {
     id: 'orthopedics',
@@ -23,6 +25,7 @@ export const placeholderDepartments: Department[] = [
     description: 'Specialized care for bones, joints, muscles, ligaments, and tendons.',
     icon: Bone,
     imageUrl: 'https://images.unsplash.com/photo-1582380330092-636f9aff6aaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvcnRob3BlZGljfGVufDB8fHx8MTc0ODg0MzQzOHww&ixlib=rb-4.1.0&q=80&w=1080',
+    'data-ai-hint': 'medical department',
   },
   {
     id: 'pediatrics',
@@ -64,8 +67,8 @@ export const placeholderDoctors: Doctor[] = [
     departmentName: 'Neurology',
     bio: 'Dr. Lee specializes in diagnosing and treating neurological disorders, including stroke, epilepsy, and multiple sclerosis. He is known for his compassionate approach.',
     availability: 'Tue, Thu: 10 AM - 6 PM',
-    imageUrl: 'https://placehold.co/300x300.png',
-    'data-ai-hint': 'male doctor',
+    imageUrl: 'https://images.unsplash.com/photo-1527613426441-4da17471b66d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmZW1hbGUlMjBkb2N0b3J8ZW58MHx8fHwxNzQ4ODQzNzA5fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    'data-ai-hint': 'doctor portrait',
     qualifications: ['MD', 'PhD (Neuroscience)'],
     experienceYears: 12,
   },

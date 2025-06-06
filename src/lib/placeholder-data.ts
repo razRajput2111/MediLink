@@ -131,8 +131,8 @@ export const placeholderTestimonials: Testimonial[] = [
     id: '1',
     patientName: 'John Doe',
     quote: "The care I received at MediLink was exceptional. Dr. Carter and her team were professional and compassionate. I highly recommend this hospital.",
-    imageUrl: 'https://placehold.co/100x100.png',
-    'data-ai-hint': 'male patient',
+    imageUrl: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8bWVufGVufDB8fHx8MTc0OTA3NDk0M3ww&ixlib=rb-4.1.0&q=80&w=1080',
+    'data-ai-hint': 'happy patient',
     date: '2024-03-15',
   },
   {

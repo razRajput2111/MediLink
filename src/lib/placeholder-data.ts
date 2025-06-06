@@ -147,8 +147,8 @@ export const placeholderTestimonials: Testimonial[] = [
     id: '3',
     patientName: 'Michael B.',
     quote: "Dr. Green performed my knee surgery, and I'm back to my active lifestyle sooner than I expected. The entire orthopedic department is fantastic.",
-    imageUrl: 'https://placehold.co/100x100.png',
-    'data-ai-hint': 'male patient',
+    imageUrl: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtZW58ZW58MHx8fHwxNzQ5MDc0OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080',
+    'data-ai-hint': 'happy patient',
     date: '2024-05-10',
   },
 ];
